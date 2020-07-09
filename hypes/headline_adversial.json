@@ -1,0 +1,7 @@
+{
+  "data_dir": "data/headline/",
+  "encoder_path": "data/renmin/word2id.json",
+  "sememe_path": "data/renmin/mat.npy",
+  "csu": "headline_advcilin_n",
+  "label_size": 18
+}

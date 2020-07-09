@@ -1,0 +1,7 @@
+{
+  "data_dir": "data/LCQMC/",
+  "encoder_path": "data/renmin/word2id.json",
+  "sememe_path": "data/renmin/mat.npy",
+  "csu": "LCQMC2",
+  "label_size": 2
+}

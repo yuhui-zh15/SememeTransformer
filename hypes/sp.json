@@ -1,0 +1,7 @@
+{
+  "data_dir": "data/SP/",
+  "encoder_path": "data/renmin/word2id.json",
+  "sememe_path": "data/renmin/mat.npy",
+  "csu": "sp2",
+  "label_size": 1976
+}

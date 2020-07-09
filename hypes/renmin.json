@@ -1,0 +1,7 @@
+{
+  "data_dir": "data/renmin/",
+  "encoder_path": "data/renmin/word2id.json",
+  "sememe_path": "data/renmin/mat.npy",
+  "sage": "renmin",
+  "label_size": 0
+}
